@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="zip_code_icon">48dp</dimen>
+    <dimen name="textView">24sp</dimen>
+</resources>
